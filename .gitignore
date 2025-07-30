@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.ipynb_checkpoints/
+*.egg-info/
+.DS_Store
+# Data and models are often large and should not be versioned directly
+# unless managed via Git LFS (which is advanced for now)
+data/
+models/
